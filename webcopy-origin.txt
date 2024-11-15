@@ -1,0 +1,224 @@
+Uri: https://wassets.hscicdn.com/static/fonts/CiIcons/ci-icons-v3.4/fonts/icomoon.svg?gencn3
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\fonts\CiIcons\ci-icons-v3.4\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://wassets.hscicdn.com/static/fonts/CiIcons/ci-icons-v3.4/fonts/icomoon.ttf?gencn3
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\fonts\CiIcons\ci-icons-v3.4\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://wassets.hscicdn.com/static/fonts/CiIcons/ci-icons-v3.4/fonts/icomoon.woff?gencn3
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\fonts\CiIcons\ci-icons-v3.4\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://wassets.hscicdn.com/static/images/favicon.ico
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://wassets.hscicdn.com/static/images/ios-120.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ios-120.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ios-144.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ios-144.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ios-180.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ios-180.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ios-72.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ios-72.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ipadpro1_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ipadpro1_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ipadpro2_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ipadpro2_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ipadpro3_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ipadpro3_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/ipad_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\ipad_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphone5_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphone5_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphone6_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphone6_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphoneplus_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphoneplus_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphonexr_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphonexr_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphonexsmax_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphonexsmax_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/iphonex_splash.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\iphonex_splash.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\lazyimage-noaspect.svg
+Content Type: image/svg+xml
+
+Uri: https://wassets.hscicdn.com/static/images/lazyimage-transparent.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\lazyimage-transparent.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/logo.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\logo.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/static/images/play-watch/bg.jpg
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\play-watch\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wassets.hscicdn.com/static/images/play-watch/desktop-bg.png
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\images\play-watch\desktop-bg.png
+Content Type: image/png
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/2415-d3930f2f9ffbb3d6d101.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\2415-d3930f2f9ffbb3d6d101.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/2579-0c6070ee6815cd646190.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\2579-0c6070ee6815cd646190.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/2648-5139beb8e41babfbe1cf.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\2648-5139beb8e41babfbe1cf.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/2741-b5e4a2ad2dc2b21e1b72.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\2741-b5e4a2ad2dc2b21e1b72.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/2749-aa78446ff65b1834d99a.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\2749-aa78446ff65b1834d99a.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/3323-1cf850518c12ec0fd8ac.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\3323-1cf850518c12ec0fd8ac.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/34-b70fab7c7ece0ae73849.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\34-b70fab7c7ece0ae73849.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/3558-694e80e759ef51a66d15.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\3558-694e80e759ef51a66d15.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/37.8ed217aec9a24030a549.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\37.8ed217aec9a24030a549.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/4319-305bbd4dcadc68455998.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\4319-305bbd4dcadc68455998.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/4822-74e5e7ffffa4d222e69b.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\4822-74e5e7ffffa4d222e69b.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/6514-be48041886b6fe3892a3.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\6514-be48041886b6fe3892a3.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/751-2a6cbdf6426d2ff0ce41.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\751-2a6cbdf6426d2ff0ce41.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/7839-c7fb89c60f54b51f8ade.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\7839-c7fb89c60f54b51f8ade.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/8617-c10aa43f6a78f5cb0e8e.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\8617-c10aa43f6a78f5cb0e8e.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/9458-5464ecfc5602c268a908.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\9458-5464ecfc5602c268a908.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/CiLanguageEnglish.4b9f543a231e3b745bcf.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\CiLanguageEnglish.4b9f543a231e3b745bcf.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/framework-9f4513c321d3052d6c6f.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\framework-9f4513c321d3052d6c6f.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/main-1cfdabd6dcfbbd80966b.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\main-1cfdabd6dcfbbd80966b.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/pages/matches/CiMatchesLivePage-995695126670358650af.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\pages\matches\CiMatchesLivePage-995695126670358650af.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/pages/_app-e49afd468b3947bca1c4.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\pages\_app-e49afd468b3947bca1c4.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/chunks/webpack-4bea12c6e8051a45fd33.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\chunks\webpack-4bea12c6e8051a45fd33.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/css/2da169706e9a8e168dd6.css
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\css\2da169706e9a8e168dd6.css
+Content Type: text/css
+
+Uri: https://wassets.hscicdn.com/_next/static/IpCjgD033yIwv5lP7rmQt/_buildManifest.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\IpCjgD033yIwv5lP7rmQt\_buildManifest.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/IpCjgD033yIwv5lP7rmQt/_ssgManifest.js
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\IpCjgD033yIwv5lP7rmQt\_ssgManifest.js
+Content Type: application/x-javascript
+
+Uri: https://wassets.hscicdn.com/_next/static/media/ajax-loader.fb6f3c230cb846e25247dfaa1da94d8f.gif
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\media\ajax-loader.fb6f3c230cb846e25247dfaa1da94d8f.gif
+Content Type: image/gif
+
+Uri: https://wassets.hscicdn.com/_next/static/media/slick.2630a3e3eab21c607e21576571b95b9d.svg
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\media\slick.2630a3e3eab21c607e21576571b95b9d.svg
+Content Type: image/svg+xml
+
+Uri: https://wassets.hscicdn.com/_next/static/media/slick.295183786cd8a138986521d9f388a286.woff
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\media\slick.295183786cd8a138986521d9f388a286.woff
+Content Type: font/woff
+
+Uri: https://wassets.hscicdn.com/_next/static/media/slick.a4e97f5a2a64f0ab132323fbeb33ae29.eot
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\media\slick.a4e97f5a2a64f0ab132323fbeb33ae29.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wassets.hscicdn.com/_next/static/media/slick.c94f7671dcc99dce43e22a89f486f7c2.ttf
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\_next\static\media\slick.c94f7671dcc99dce43e22a89f486f7c2.ttf
+Content Type: font/ttf
+
+Uri: https://www.espncricinfo.com/live-cricket-score
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\live-cricket-score.html
+Content Type: text/html
+
+Uri: https://www.espncricinfo.com/static/json/manifest.json
+File Name: C:\Users\786\Desktop\New folder\www.espncricinfo.com\static\json\manifest.json
+Content Type: application/json
+
